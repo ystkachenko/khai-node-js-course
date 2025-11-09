@@ -1,0 +1,19 @@
+{
+  "name": "khai-node-js-course",
+  "version": "1.0.0",
+  "description": "Цей проєкт створено в межах курсу **\"Backend Development\"** у **ХАІ**.  \r Мета — навчитися працювати з Docker і налаштовувати Nginx як базовий веб-сервер.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ystkachenko/khai-node-js-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ystkachenko/khai-node-js-course/issues"
+  },
+  "homepage": "https://github.com/ystkachenko/khai-node-js-course#readme"
+}
