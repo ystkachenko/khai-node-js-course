@@ -1,0 +1,11 @@
+# Nginx Template
+
+Цей проєкт створено в межах курсу **"Backend Development"** у **ХАІ**.  
+Мета — навчитися працювати з Docker і налаштовувати Nginx як базовий веб-сервер.
+
+## Команди для запуску
+```bash
+docker build -t nginx-template .
+docker run -d -p 8080:80 nginx-template
+Автор
+Ткаченко Євген, студент гр 545і ХАІ
